@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "title": "Startup Pitch Night",
+    "date": "2025-12-02T18:00:00",
+    "location": "Bengaluru",
+    "price": 300,
+    "description": "An evening where startups pitch their ideas to investors and industry leaders."
+  },
+  {
+    "id": "2",
+    "title": "Cloud Computing Conference",
+    "date": "2025-12-12T09:00:00",
+    "location": "Pune",
+    "price": 1000,
+    "description": "Sessions on AWS, Azure, and Google Cloud with workshops on scaling apps in the cloud."
+  },
+  {
+    "id": "3",
+    "title": "Digital Marketing Workshop",
+    "date": "2025-12-20T15:00:00",
+    "location": "Kolkata",
+    "price": 600,
+    "description": "Learn SEO, social media ads, and digital strategies to grow your brand online."
+  },
+
+  
+  {
+    "id": "4",
+    "title": "AI & Machine Learning Summit",
+    "date": "2025-10-25T09:30:00",
+    "location": "Hyderabad",
+    "price": 1500,
+    "description": "A deep dive into Artificial Intelligence, Machine Learning models, and real-world case studies."
+  },
+  {
+    "id": "5",
+    "title": "Cybersecurity Expo 2025",
+    "date": "2025-11-05T10:00:00",
+    "location": "Delhi",
+    "price": 1100,
+    "description": "Industry experts discuss the future of cybersecurity, data privacy, and ethical hacking."
+  },
+  {
+    "id": "6",
+    "title": "Full-Stack Developer Bootcamp",
+    "date": "2025-11-18T11:00:00",
+    "location": "Chennai",
+    "price": 1800,
+    "description": "Hands-on bootcamp covering React, Node.js, Express, and MongoDB for modern web apps."
+  }
+ 
+
+
+]
