@@ -25,10 +25,10 @@ It allows users to browse events, view event details, and add them to a booking 
 ## Screenshots
 
 ### Event List Page
-Event List(./screenshots/event-list.png)
+Event List(./src/screenshots/event-list.png)
 
 ### Event Details Page
-Event Details(./screenshots/event-details.png)
+Event Details(./src/screenshots/event-details.png)
 
 ### Booking Cart Page
-Booking Cart(./screenshots/booking-cart.png)
+Booking Cart(./src/screenshots/booking-cart.png)
