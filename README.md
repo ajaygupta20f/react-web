@@ -1,16 +1,34 @@
-# React + Vite
+# Event Booking Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple event booking application built with React (Vite), Context API for state management, and Tailwind CSS for styling.  
+It allows users to browse events, view event details, and add them to a booking cart.
 
-Currently, two official plugins are available:
+## Features
+-  List of upcoming events with sorting (by date and price)  
+-  Event detail page with full description, date, time, and location  
+-  Add / remove events from the booking cart  
+-  Cart data persists using localStorage  
+-  Responsive design using Tailwind CSS  
+-  Clean and modern UI with hover effects and gradient buttons
+-  
+ ## Tech Stack
+- React + Vite  
+- React Router  
+- Context API  
+- Tailwind CSS  
+- (Optional) lucide-react for icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Start the development server
+  npm run dev
 
-## React Compiler
+ 
+## Screenshots
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Event List Page
+Event List(./screenshots/event-list.png)
 
-## Expanding the ESLint configuration
+### Event Details Page
+Event Details(./screenshots/event-details.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Booking Cart Page
+Booking Cart(./screenshots/booking-cart.png)
